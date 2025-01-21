@@ -1,0 +1,18 @@
+System Information:
+    System: Darwin
+    Release: 23.6.0
+    Version: Darwin Kernel Version 23.6.0: Fri Nov 15 15:13:28 PST 2024; root:xnu-10063.141.1.702.7~1/RELEASE_X86_64
+    Machine: x86_64
+    Processor: i386
+
+    CPU Information:
+    Processor: i386
+    Physical Cores: 6
+    Logical Cores: 12
+
+    Memory Information:
+    Total Memory: 17179869184 bytes
+    Available Memory: 6919766016 bytes
+    Used Memory: 8981368832 bytes
+    Memory Utilization: 59.7%
+    

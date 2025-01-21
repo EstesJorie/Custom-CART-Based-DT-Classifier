@@ -1,0 +1,17 @@
+System Information:
+    System: Linux
+    Node Name: satb076tch039
+    Release: 6.8.0-51-generic
+    Version: #52-Ubuntu SMP PREEMPT_DYNAMIC Thu Dec  5 13:09:44 UTC 2024
+    Machine: x86_64
+
+    CPU Information:
+    Processor: x86_64
+    Physical Cores: 6
+    Logical Cores: 12
+
+    Memory Information:
+    Total Memory: 16432943104 bytes
+    Available Memory: 9722703872 bytes
+    Used Memory: 5294727168 bytes
+    Memory Utilization: 40.8%

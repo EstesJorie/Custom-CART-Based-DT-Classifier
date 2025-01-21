@@ -1,0 +1,18 @@
+System Information:
+    System: Windows
+    Release: 10
+    Version: 10.0.19045
+    Machine: AMD64
+    Processor: Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+
+    CPU Information:
+    Processor: Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+    Physical Cores: 4
+    Logical Cores: 4
+
+    Memory Information:
+    Total Memory: 8467763200 bytes
+    Available Memory: 1055424512 bytes
+    Used Memory: 7412432896 bytes
+    Memory Utilization: 87.5%
+    

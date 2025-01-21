@@ -1,0 +1,27 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.8, pytest-7.4.4, pluggy-1.0.0
+rootdir: D:\SCC.461 FINAL PROJECT
+plugins: anyio-4.2.0
+collected 3 items
+
+test_irisData.py .F.                                                     [100%]
+
+================================== FAILURES ===================================
+______________________________ test_irisDescribe ______________________________
+
+    def test_irisDescribe():
+        filePath = r'iris\iris.data'
+        irisData = loadIrisData(filePath)
+        irisDescription = irisDescribe(irisData)
+    
+        assert isinstance(irisDescription, pd.DataFrame)
+        expectedColumns = ['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'species']
+>       assert list(irisDescription.columns) == expectedColumns
+E       AssertionError: assert ['sepal_lengt...'petal_width'] == ['sepal_lengt...h', 'species']
+E         Right contains one more item: 'species'
+E         Use -v to get more diff
+
+test_irisData.py:21: AssertionError
+=========================== short test summary info ===========================
+FAILED test_irisData.py::test_irisDescribe - AssertionError: assert ['sepal_l...
+========================= 1 failed, 2 passed in 8.04s =========================

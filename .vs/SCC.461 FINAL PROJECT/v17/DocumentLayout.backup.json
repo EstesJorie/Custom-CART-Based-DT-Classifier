@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCC.461 FINAL PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2309F0-6390-4E72-8334-AC3FFA497EA6}|SCC.461 FINAL PROJECT\\SCC.461 FINAL PROJECT.pyproj|D:\\SCC.461 FINAL PROJECT\\SCC.461 FINAL PROJECT\\ProjectFile.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA2309F0-6390-4E72-8334-AC3FFA497EA6}|SCC.461 FINAL PROJECT\\SCC.461 FINAL PROJECT.pyproj|solutionrelative:SCC.461 FINAL PROJECT\\ProjectFile.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectFile.py",
+              "DocumentMoniker": "D:\\SCC.461 FINAL PROJECT\\SCC.461 FINAL PROJECT\\ProjectFile.py",
+              "RelativeDocumentMoniker": "SCC.461 FINAL PROJECT\\ProjectFile.py",
+              "ToolTip": "D:\\SCC.461 FINAL PROJECT\\SCC.461 FINAL PROJECT\\ProjectFile.py",
+              "RelativeToolTip": "SCC.461 FINAL PROJECT\\ProjectFile.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-16T15:37:18.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
